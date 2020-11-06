@@ -1,6 +1,6 @@
 import React from "react";
 const Navbar = ({ totalCounters }) => {
-  // Be informed that ({totalCounter}) was synonymous to props. same as
+  // Be informed that ({totalCounter}) was synonymous to props same as
   //   const { onReset, counters, onDelete, onIncrement } = this.props; at Counters.jsx
 
   return (
